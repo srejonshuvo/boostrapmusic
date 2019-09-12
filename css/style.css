@@ -1,0 +1,150 @@
+body{
+background-image: url(../img/bagb.png);
+background-repeat: no-repeat;
+background-position: center;
+}
+.new-nav {
+    padding: 31px;
+}
+.new-nav li{
+    list-style: none;
+}
+.fa.fa-bars {
+    font-size: 37px;
+    color: #285a9e;
+}
+.menubar {
+    background: transparent;
+    border: none;
+}
+/*second section*/
+.secondsection {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 56px;
+}
+h2 {
+    color: white;
+    font-family: initial;
+    font-size: 34px;
+}
+h2 span {
+    color: #2a5da3;
+    font-size: 38px;
+    font-family: initial;
+    padding-right: 7px;
+}
+p {
+    color: #2a5da3;
+    font-size: 14px;
+    padding-bottom: 36px;
+    padding-top: 10px;
+}
+.btt {
+    background: transparent;
+    border: 1px solid #2a5da3;
+    border-radius: 20px;
+    padding: 7px 16px;
+    margin-left: 11px;
+}
+.bannerone {
+    padding-top: 49px;
+}
+.headph {
+    width: 99%;
+}
+.content {
+    margin-top: 77px;
+    text-align: initial;
+    margin-left: 25px;
+}
+.newp-one{
+	color: #55667e;
+
+}
+.bttn {
+    background: transparent;
+    border: 1px solid #2a5da3;
+    border-radius: 20px;
+    padding: 7px 34px;
+}
+/*sectionthree*/
+.sectionthree{
+
+}
+.content-one {
+    margin-top: 131px;
+}
+.img-one {
+    width: 35px;
+    height: 33px;
+}
+.newp-two {
+    text-align: justify;
+    font-size: 10px;
+    color: #55667e;
+    padding-bottom: 46px;
+}
+h4 {
+    color: white;
+    font-size: 16px;
+    padding-top: 3px;
+}
+.img-two {
+    margin-top: -90px;
+}
+h3 {
+    color: white;
+    font-size: 45px;
+    font-family: initial;
+}
+h3 span {
+    color: #2a5da3;
+    font-size: 45px;
+    margin-right: 7px;
+}
+.sectionfour {
+    padding: 23px 0px;
+    padding-bottom: 242px;
+}
+.position-one{
+    position: relative;
+
+}
+.position-two {
+    position: absolute;
+    left: 189px;
+}
+.new-h3 {
+    font-size: 35px;
+    padding-top: 11px;
+}
+.newp-three {
+    color: #55667e;
+    font-size: 14px;
+    padding: 13px 0px;
+    line-height: 2;
+}
+
+.section-five{
+
+}
+h5 {
+    padding: 89px;
+    line-height: 43px;
+    color: #66778e;
+}
+mark {
+    background: transparent;
+    margin-left: 11px;
+    color: #66778e;
+}
+
+.section-six {
+    text-align: center;
+    padding-top: 53px;
+}
+
+.section-seven{
+
+}
